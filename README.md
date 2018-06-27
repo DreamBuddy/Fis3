@@ -1,6 +1,6 @@
 # Fis3
 
-## 使用PostCss + postcss-preset-env + Async
+## 使用PostCSS + postcss-preset-env + Async
 主要是利用'promise-synchronizer'来实现Promise异步返回变为同步输出
 ```javascript
 postprocessor: function (content, file, conf) {
