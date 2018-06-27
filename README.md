@@ -1,4 +1,4 @@
-# Fis3
+# Fis3 平时积累
 
 ## 使用PostCSS + postcss-preset-env + Async
 主要是利用'promise-synchronizer'来实现Promise异步返回变为同步输出
